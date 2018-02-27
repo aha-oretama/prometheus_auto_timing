@@ -6,7 +6,7 @@
 
     <groupId>jp.aha-oretama</groupId>
     <artifactId>prometheus_auto_timing</artifactId>
-    <version>1.0.0-RELEASE</version>
+    <version>0.1.0-RELEASE</version>
     <build>
         <plugins>
             <plugin>
